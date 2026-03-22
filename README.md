@@ -36,6 +36,7 @@ flutter run -d <device-id>
 ![alt text](<CleanShot 2026-03-22 at 15.57.42@2x.png>)
 ### 5. 实际效果
 <video src="video.mp4" width="320" controls></video>
+![alt text](<ic.gif>)
 
 ## 设计与实现手记
 ### 1. 技术选型
